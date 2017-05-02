@@ -1,2 +1,3 @@
 # dtasci
-data science coursework
+data science coursework.
+This is learning to use github.
